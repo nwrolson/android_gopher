@@ -1,0 +1,145 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/noahwrolson/Documents/Parse Dev/Parse-Starter-Project-1.10.3/ParseStarterProject/src/main/AndroidManifest.xml:10:1-74:12
+	package
+		ADDED from /Users/noahwrolson/Documents/Parse Dev/Parse-Starter-Project-1.10.3/ParseStarterProject/src/main/AndroidManifest.xml:11:5-32
+		INJECTED from /Users/noahwrolson/Documents/Parse Dev/Parse-Starter-Project-1.10.3/ParseStarterProject/src/main/AndroidManifest.xml
+		INJECTED from /Users/noahwrolson/Documents/Parse Dev/Parse-Starter-Project-1.10.3/ParseStarterProject/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/noahwrolson/Documents/Parse Dev/Parse-Starter-Project-1.10.3/ParseStarterProject/src/main/AndroidManifest.xml
+		INJECTED from /Users/noahwrolson/Documents/Parse Dev/Parse-Starter-Project-1.10.3/ParseStarterProject/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/noahwrolson/Documents/Parse Dev/Parse-Starter-Project-1.10.3/ParseStarterProject/src/main/AndroidManifest.xml:10:11-69
+	android:versionCode
+		INJECTED from /Users/noahwrolson/Documents/Parse Dev/Parse-Starter-Project-1.10.3/ParseStarterProject/src/main/AndroidManifest.xml
+		INJECTED from /Users/noahwrolson/Documents/Parse Dev/Parse-Starter-Project-1.10.3/ParseStarterProject/src/main/AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from /Users/noahwrolson/Documents/Parse Dev/Parse-Starter-Project-1.10.3/ParseStarterProject/src/main/AndroidManifest.xml:12:5-67
+	android:name
+		ADDED from /Users/noahwrolson/Documents/Parse Dev/Parse-Starter-Project-1.10.3/ParseStarterProject/src/main/AndroidManifest.xml:12:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from /Users/noahwrolson/Documents/Parse Dev/Parse-Starter-Project-1.10.3/ParseStarterProject/src/main/AndroidManifest.xml:13:5-79
+	android:name
+		ADDED from /Users/noahwrolson/Documents/Parse Dev/Parse-Starter-Project-1.10.3/ParseStarterProject/src/main/AndroidManifest.xml:13:22-76
+uses-permission#android.permission.WAKE_LOCK
+ADDED from /Users/noahwrolson/Documents/Parse Dev/Parse-Starter-Project-1.10.3/ParseStarterProject/src/main/AndroidManifest.xml:14:5-68
+	android:name
+		ADDED from /Users/noahwrolson/Documents/Parse Dev/Parse-Starter-Project-1.10.3/ParseStarterProject/src/main/AndroidManifest.xml:14:22-65
+uses-permission#android.permission.VIBRATE
+ADDED from /Users/noahwrolson/Documents/Parse Dev/Parse-Starter-Project-1.10.3/ParseStarterProject/src/main/AndroidManifest.xml:15:5-66
+	android:name
+		ADDED from /Users/noahwrolson/Documents/Parse Dev/Parse-Starter-Project-1.10.3/ParseStarterProject/src/main/AndroidManifest.xml:15:22-63
+uses-permission#android.permission.GET_ACCOUNTS
+ADDED from /Users/noahwrolson/Documents/Parse Dev/Parse-Starter-Project-1.10.3/ParseStarterProject/src/main/AndroidManifest.xml:16:5-71
+	android:name
+		ADDED from /Users/noahwrolson/Documents/Parse Dev/Parse-Starter-Project-1.10.3/ParseStarterProject/src/main/AndroidManifest.xml:16:22-68
+uses-permission#com.google.android.c2dm.permission.RECEIVE
+ADDED from /Users/noahwrolson/Documents/Parse Dev/Parse-Starter-Project-1.10.3/ParseStarterProject/src/main/AndroidManifest.xml:17:5-82
+	android:name
+		ADDED from /Users/noahwrolson/Documents/Parse Dev/Parse-Starter-Project-1.10.3/ParseStarterProject/src/main/AndroidManifest.xml:17:22-79
+permission#com.parse.starter.permission.C2D_MESSAGE
+ADDED from /Users/noahwrolson/Documents/Parse Dev/Parse-Starter-Project-1.10.3/ParseStarterProject/src/main/AndroidManifest.xml:23:5-24:67
+	android:protectionLevel
+		ADDED from /Users/noahwrolson/Documents/Parse Dev/Parse-Starter-Project-1.10.3/ParseStarterProject/src/main/AndroidManifest.xml:23:17-52
+	android:name
+		ADDED from /Users/noahwrolson/Documents/Parse Dev/Parse-Starter-Project-1.10.3/ParseStarterProject/src/main/AndroidManifest.xml:24:9-64
+uses-permission#com.parse.starter.permission.C2D_MESSAGE
+ADDED from /Users/noahwrolson/Documents/Parse Dev/Parse-Starter-Project-1.10.3/ParseStarterProject/src/main/AndroidManifest.xml:25:5-80
+	android:name
+		ADDED from /Users/noahwrolson/Documents/Parse Dev/Parse-Starter-Project-1.10.3/ParseStarterProject/src/main/AndroidManifest.xml:25:22-77
+application
+ADDED from /Users/noahwrolson/Documents/Parse Dev/Parse-Starter-Project-1.10.3/ParseStarterProject/src/main/AndroidManifest.xml:27:5-72:19
+MERGED from [com.android.support:appcompat-v7:22.2.0] /Users/noahwrolson/Documents/Parse Dev/Parse-Starter-Project-1.10.3/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:22.2.0] /Users/noahwrolson/Documents/Parse Dev/Parse-Starter-Project-1.10.3/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.0/AndroidManifest.xml:22:5-20
+	android:label
+		ADDED from /Users/noahwrolson/Documents/Parse Dev/Parse-Starter-Project-1.10.3/ParseStarterProject/src/main/AndroidManifest.xml:31:9-41
+	android:allowBackup
+		ADDED from /Users/noahwrolson/Documents/Parse Dev/Parse-Starter-Project-1.10.3/ParseStarterProject/src/main/AndroidManifest.xml:29:9-35
+	android:icon
+		ADDED from /Users/noahwrolson/Documents/Parse Dev/Parse-Starter-Project-1.10.3/ParseStarterProject/src/main/AndroidManifest.xml:30:9-43
+	android:theme
+		ADDED from /Users/noahwrolson/Documents/Parse Dev/Parse-Starter-Project-1.10.3/ParseStarterProject/src/main/AndroidManifest.xml:32:9-40
+	android:name
+		ADDED from /Users/noahwrolson/Documents/Parse Dev/Parse-Starter-Project-1.10.3/ParseStarterProject/src/main/AndroidManifest.xml:28:9-43
+meta-data#com.parse.APPLICATION_ID
+ADDED from /Users/noahwrolson/Documents/Parse Dev/Parse-Starter-Project-1.10.3/ParseStarterProject/src/main/AndroidManifest.xml:33:9-35:52
+	android:value
+		ADDED from /Users/noahwrolson/Documents/Parse Dev/Parse-Starter-Project-1.10.3/ParseStarterProject/src/main/AndroidManifest.xml:35:13-49
+	android:name
+		ADDED from /Users/noahwrolson/Documents/Parse Dev/Parse-Starter-Project-1.10.3/ParseStarterProject/src/main/AndroidManifest.xml:34:13-52
+meta-data#com.parse.CLIENT_KEY
+ADDED from /Users/noahwrolson/Documents/Parse Dev/Parse-Starter-Project-1.10.3/ParseStarterProject/src/main/AndroidManifest.xml:36:9-38:56
+	android:value
+		ADDED from /Users/noahwrolson/Documents/Parse Dev/Parse-Starter-Project-1.10.3/ParseStarterProject/src/main/AndroidManifest.xml:38:13-53
+	android:name
+		ADDED from /Users/noahwrolson/Documents/Parse Dev/Parse-Starter-Project-1.10.3/ParseStarterProject/src/main/AndroidManifest.xml:37:13-48
+activity#com.parse.starter.MainActivity
+ADDED from /Users/noahwrolson/Documents/Parse Dev/Parse-Starter-Project-1.10.3/ParseStarterProject/src/main/AndroidManifest.xml:40:9-48:20
+	android:label
+		ADDED from /Users/noahwrolson/Documents/Parse Dev/Parse-Starter-Project-1.10.3/ParseStarterProject/src/main/AndroidManifest.xml:42:13-45
+	android:name
+		ADDED from /Users/noahwrolson/Documents/Parse Dev/Parse-Starter-Project-1.10.3/ParseStarterProject/src/main/AndroidManifest.xml:41:13-41
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /Users/noahwrolson/Documents/Parse Dev/Parse-Starter-Project-1.10.3/ParseStarterProject/src/main/AndroidManifest.xml:43:13-47:29
+action#android.intent.action.MAIN
+ADDED from /Users/noahwrolson/Documents/Parse Dev/Parse-Starter-Project-1.10.3/ParseStarterProject/src/main/AndroidManifest.xml:44:17-69
+	android:name
+		ADDED from /Users/noahwrolson/Documents/Parse Dev/Parse-Starter-Project-1.10.3/ParseStarterProject/src/main/AndroidManifest.xml:44:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/noahwrolson/Documents/Parse Dev/Parse-Starter-Project-1.10.3/ParseStarterProject/src/main/AndroidManifest.xml:46:17-77
+	android:name
+		ADDED from /Users/noahwrolson/Documents/Parse Dev/Parse-Starter-Project-1.10.3/ParseStarterProject/src/main/AndroidManifest.xml:46:27-74
+service#com.parse.PushService
+ADDED from /Users/noahwrolson/Documents/Parse Dev/Parse-Starter-Project-1.10.3/ParseStarterProject/src/main/AndroidManifest.xml:50:9-57
+	android:name
+		ADDED from /Users/noahwrolson/Documents/Parse Dev/Parse-Starter-Project-1.10.3/ParseStarterProject/src/main/AndroidManifest.xml:50:18-54
+receiver#com.parse.ParsePushBroadcastReceiver
+ADDED from /Users/noahwrolson/Documents/Parse Dev/Parse-Starter-Project-1.10.3/ParseStarterProject/src/main/AndroidManifest.xml:51:9-58:20
+	android:exported
+		ADDED from /Users/noahwrolson/Documents/Parse Dev/Parse-Starter-Project-1.10.3/ParseStarterProject/src/main/AndroidManifest.xml:52:13-37
+	android:name
+		ADDED from /Users/noahwrolson/Documents/Parse Dev/Parse-Starter-Project-1.10.3/ParseStarterProject/src/main/AndroidManifest.xml:51:19-70
+intent-filter#com.parse.push.intent.DELETE+com.parse.push.intent.OPEN+com.parse.push.intent.RECEIVE
+ADDED from /Users/noahwrolson/Documents/Parse Dev/Parse-Starter-Project-1.10.3/ParseStarterProject/src/main/AndroidManifest.xml:53:13-57:29
+action#com.parse.push.intent.RECEIVE
+ADDED from /Users/noahwrolson/Documents/Parse Dev/Parse-Starter-Project-1.10.3/ParseStarterProject/src/main/AndroidManifest.xml:54:17-72
+	android:name
+		ADDED from /Users/noahwrolson/Documents/Parse Dev/Parse-Starter-Project-1.10.3/ParseStarterProject/src/main/AndroidManifest.xml:54:25-69
+action#com.parse.push.intent.DELETE
+ADDED from /Users/noahwrolson/Documents/Parse Dev/Parse-Starter-Project-1.10.3/ParseStarterProject/src/main/AndroidManifest.xml:55:17-71
+	android:name
+		ADDED from /Users/noahwrolson/Documents/Parse Dev/Parse-Starter-Project-1.10.3/ParseStarterProject/src/main/AndroidManifest.xml:55:25-68
+action#com.parse.push.intent.OPEN
+ADDED from /Users/noahwrolson/Documents/Parse Dev/Parse-Starter-Project-1.10.3/ParseStarterProject/src/main/AndroidManifest.xml:56:17-69
+	android:name
+		ADDED from /Users/noahwrolson/Documents/Parse Dev/Parse-Starter-Project-1.10.3/ParseStarterProject/src/main/AndroidManifest.xml:56:25-66
+receiver#com.parse.GcmBroadcastReceiver
+ADDED from /Users/noahwrolson/Documents/Parse Dev/Parse-Starter-Project-1.10.3/ParseStarterProject/src/main/AndroidManifest.xml:59:9-70:20
+	android:permission
+		ADDED from /Users/noahwrolson/Documents/Parse Dev/Parse-Starter-Project-1.10.3/ParseStarterProject/src/main/AndroidManifest.xml:60:13-73
+	android:name
+		ADDED from /Users/noahwrolson/Documents/Parse Dev/Parse-Starter-Project-1.10.3/ParseStarterProject/src/main/AndroidManifest.xml:59:19-64
+intent-filter#com.google.android.c2dm.intent.RECEIVE+com.google.android.c2dm.intent.REGISTRATION+com.parse.starter
+ADDED from /Users/noahwrolson/Documents/Parse Dev/Parse-Starter-Project-1.10.3/ParseStarterProject/src/main/AndroidManifest.xml:61:13-69:29
+action#com.google.android.c2dm.intent.RECEIVE
+ADDED from /Users/noahwrolson/Documents/Parse Dev/Parse-Starter-Project-1.10.3/ParseStarterProject/src/main/AndroidManifest.xml:62:17-81
+	android:name
+		ADDED from /Users/noahwrolson/Documents/Parse Dev/Parse-Starter-Project-1.10.3/ParseStarterProject/src/main/AndroidManifest.xml:62:25-78
+action#com.google.android.c2dm.intent.REGISTRATION
+ADDED from /Users/noahwrolson/Documents/Parse Dev/Parse-Starter-Project-1.10.3/ParseStarterProject/src/main/AndroidManifest.xml:63:17-86
+	android:name
+		ADDED from /Users/noahwrolson/Documents/Parse Dev/Parse-Starter-Project-1.10.3/ParseStarterProject/src/main/AndroidManifest.xml:63:25-83
+category#com.parse.starter
+ADDED from /Users/noahwrolson/Documents/Parse Dev/Parse-Starter-Project-1.10.3/ParseStarterProject/src/main/AndroidManifest.xml:68:17-62
+	android:name
+		ADDED from /Users/noahwrolson/Documents/Parse Dev/Parse-Starter-Project-1.10.3/ParseStarterProject/src/main/AndroidManifest.xml:68:27-59
+uses-sdk
+INJECTED from /Users/noahwrolson/Documents/Parse Dev/Parse-Starter-Project-1.10.3/ParseStarterProject/src/main/AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:appcompat-v7:22.2.0] /Users/noahwrolson/Documents/Parse Dev/Parse-Starter-Project-1.10.3/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:22.2.0] /Users/noahwrolson/Documents/Parse Dev/Parse-Starter-Project-1.10.3/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.0/AndroidManifest.xml:20:5-43
+	android:targetSdkVersion
+		INJECTED from /Users/noahwrolson/Documents/Parse Dev/Parse-Starter-Project-1.10.3/ParseStarterProject/src/main/AndroidManifest.xml
+		INJECTED from /Users/noahwrolson/Documents/Parse Dev/Parse-Starter-Project-1.10.3/ParseStarterProject/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/noahwrolson/Documents/Parse Dev/Parse-Starter-Project-1.10.3/ParseStarterProject/src/main/AndroidManifest.xml
+		INJECTED from /Users/noahwrolson/Documents/Parse Dev/Parse-Starter-Project-1.10.3/ParseStarterProject/src/main/AndroidManifest.xml
